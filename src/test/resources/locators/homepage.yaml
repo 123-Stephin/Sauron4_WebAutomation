@@ -1,0 +1,13 @@
+elements:
+  searchbar:
+    en_US:
+      web: //input[@name='q']
+  searching:
+    en_US:
+      web: //button[@type='submit']
+  item:
+    en_US:
+      web: xpath=(//a[@title='AlphaBounce + Running Shoes For Men'])[1]
+#  cartload:
+#    en_US:
+#      web: //button[text()="GO TO CART"]
